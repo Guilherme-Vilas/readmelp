@@ -25,9 +25,9 @@ Não escrevo apenas código; construo ecossistemas digitais que resolvem problem
 ### 📈 Métricas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilherme-villas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-villas&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
-[LinkedIn](LINK_DO_SEU_LINKEDIN) | [Portfólio](LINK_SE_TIVER) | [Imperium.IA](LINK_SE_TIVER)
+[LinkedIn](https://www.linkedin.com/in/guilherme-abiti/)) | [Portfólio](LINK_SE_TIVER) | [Imperium.IA](LINK_SE_TIVER)
